@@ -1,0 +1,38 @@
+body,
+html {
+	height:100%;
+	width:100%;
+	background: url("https://free4kwallpapers.com/uploads/originals/2015/08/09/cool-black-backgrounds.jpg") no-repeat center center fixed; 
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	background-size: cover;
+}
+
+h1 {
+	font-family: "Abel",serif;
+	color:white;
+}
+
+hr{
+	border-color: white;
+	max-width: 90px;
+}
+
+p{
+	color:#8E8685;
+}
+.btnmod {
+
+	margin-top: 10px;
+	border-radius: 300px;
+}
+
+.btnmod:hover {
+	border-width: 3px;
+}
+
+a {
+	color:white;
+	text-decoration: none;
+}
